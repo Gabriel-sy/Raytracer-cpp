@@ -9,6 +9,15 @@
     <ClInclude Include="C:\v\graphics\Raytracer2\Raytracer2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\v\graphics\Raytracer2\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\v\graphics\Raytracer2\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\v\graphics\Raytracer2\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\v\graphics\Raytracer2\CMakeLists.txt" />

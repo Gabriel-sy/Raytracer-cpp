@@ -374,6 +374,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="C:\v\graphics\Raytracer2\Raytracer2.cpp" />
     <ClInclude Include="C:\v\graphics\Raytracer2\Raytracer2.h" />
+    <ClInclude Include="C:\v\graphics\Raytracer2\vec3.h" />
+    <ClInclude Include="C:\v\graphics\Raytracer2\color.h" />
+    <ClInclude Include="C:\v\graphics\Raytracer2\ray.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\v\graphics\Raytracer2\build\ZERO_CHECK.vcxproj">
